@@ -15,7 +15,7 @@ namespace SistemaRecados.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Esse é o FUCKING Sistema de Recados do LEONARDO, Oh Yeah!";
 
             return View();
         }
